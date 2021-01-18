@@ -203,3 +203,4 @@ verify_fun
 [[ $? = "0" ]] && break
 done
 valid_fun
+rm adminstal.sh
